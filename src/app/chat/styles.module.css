@@ -1,0 +1,19 @@
+.panel {
+    display: flex;
+    margin: 20px 10px;
+}
+.msgAuthor {
+  margin: 2px 5px;
+  font-size: small;
+  font-weight: 600;
+}
+.msgText {
+  margin: 5px;
+  font-size: smaller;
+}
+.inputText {
+    margin-bottom: 10px;
+}
+.submitIcon {
+    cursor: pointer;
+}
